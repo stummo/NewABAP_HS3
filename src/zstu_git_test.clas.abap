@@ -16,5 +16,6 @@ CLASS ZSTU_GIT_TEST IMPLEMENTATION.
 
 
   method TESTME.
+* comment added from GIT   
   endmethod.
 ENDCLASS.
